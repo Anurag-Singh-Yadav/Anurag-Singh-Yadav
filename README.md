@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anurag Singh Yadav</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+### Welcome to my github profile <img align="right" src="https://komarev.com/ghpvc/?username=Daman&label=Profile%20views&color=0e75b6&style=plastic" alt="Daman" /> 
+
+<div align="center">
+	<img src="anurag.svg" width="800" height="100" alt="Click to see the source">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-singh-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-singh-yadav" /> </p>
 
