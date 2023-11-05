@@ -6,7 +6,6 @@
 	<img src="anurag.svg" width="800" height="100" alt="Click to see the source">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-singh-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-singh-yadav" /> </p>
 
 - 🔭 I’m currently working on [Code-Mars](https://code-mars.netlify.app/)
 
