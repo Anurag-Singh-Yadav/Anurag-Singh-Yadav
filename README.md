@@ -25,3 +25,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-singh-yadav&show_icons=true&locale=en" alt="anurag-singh-yadav" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Singh-Yadav&" alt="Anurag-Singh-Yadav" /></p>
